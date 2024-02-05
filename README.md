@@ -6,6 +6,6 @@ This repo consists of 3 tasks shown as follows:
 2. Portfolio (Technology Used - HTML, CSS)
 3. Tempurature Converter Websie (Technology Used - HTML, CSS, Javascript)
 
-1. Preview of Landing Page - 
+Preview of Landing Page - 
 
 https://github.com/sudhanshu-1-cyber/OIBSIP/assets/77978613/19fa0c2f-b6ae-4f4e-9e43-ce42698c3a15
